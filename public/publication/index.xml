@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Julie Gregg</title>
+    <link>/publication/</link>
+    <description>Recent content in Publications on Julie Gregg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 -0600</lastBuildDate>
+    
+	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Parallel Effects of Retrieval Ease on Attributions about the Past and the Future</title>
+      <link>/publication/acta-memory/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0600</pubDate>
+      
+      <guid>/publication/acta-memory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Use of Phonological Representations in Guiding Eye Movements in the Visual World Paradigm</title>
+      <link>/publication/jeplmc-phonology/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 -0600</pubDate>
+      
+      <guid>/publication/jeplmc-phonology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eye Movement Programming and Reading Accuracy</title>
+      <link>/publication/qjep-accuracy/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 -0600</pubDate>
+      
+      <guid>/publication/qjep-accuracy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Misperception of Orthographic Neighbors during Silent and Oral Reading</title>
+      <link>/publication/jephpp-orthography/</link>
+      <pubDate>Mon, 04 Jan 2016 00:00:00 -0600</pubDate>
+      
+      <guid>/publication/jephpp-orthography/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

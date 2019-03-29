@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S Sajin on Julie Gregg</title>
+    <link>/authors/s-sajin/</link>
+    <description>Recent content in S Sajin on Julie Gregg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Feb 2018 00:00:00 -0600</lastBuildDate>
+    
+	<atom:link href="/authors/s-sajin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Use of Phonological Representations in Guiding Eye Movements in the Visual World Paradigm</title>
+      <link>/publication/jeplmc-phonology/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 -0600</pubDate>
+      
+      <guid>/publication/jeplmc-phonology/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
